@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-07-27)
+
+<section class="features">
+
+### Features
+
+-   [`7aab14b`](https://github.com/stdlib-js/stdlib/commit/7aab14b3dd6e1e8111d18deb92625984e9d1971c) - add C ndarray interface and refactor implementation for `stats/base/sstdevwd` [(#7721)](https://github.com/stdlib-js/stdlib/pull/7721)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`7aab14b`](https://github.com/stdlib-js/stdlib/commit/7aab14b3dd6e1e8111d18deb92625984e9d1971c) - **feat:** add C ndarray interface and refactor implementation for `stats/base/sstdevwd` [(#7721)](https://github.com/stdlib-js/stdlib/pull/7721) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`790c636`](https://github.com/stdlib-js/stdlib/commit/790c6365997dbc302ef6a312210fc3d74b423da3) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bb4c5ac`](https://github.com/stdlib-js/stdlib/commit/bb4c5acb86f6acbae8579ab5f45e161a0c984dd8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`ea622d9`](https://github.com/stdlib-js/stdlib/commit/ea622d981caec008ecc84f33c2253e39c0267576) - **refactor:** update paths _(by Gururaj Gurram)_
